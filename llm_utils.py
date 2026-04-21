@@ -119,6 +119,8 @@ RULES:
 7. Prefer bullet points when listing information.
 8. If relevant, quote key phrases from context.
 
+Give the output in clean, markdown format, and add table data where necessary.
+
 ---------------------
 CONTEXT:
 {context}

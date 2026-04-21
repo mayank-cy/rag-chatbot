@@ -1,4 +1,5 @@
 import json
+from bs4 import BeautifulSoup
 
 with open("/Users/mayankchoudhary/Desktop/rag_project/outputs/outputs/input_pdf/auto/input_pdf_content_list_v2.json") as f:
     data = json.load(f)
@@ -44,6 +45,30 @@ def extract_text_from_block(block):
         caption_text = " ".join([c["content"] for c in captions if c["type"] == "text"])
 
         return f"[IMAGE: {path}] {caption_text}"
+    
+    # ---- TABLE ----
+
+    elif btype == "table":
+        html = content.get("html", "")
+
+        captions = content.get("table_caption", [])
+        caption_text = " ".join([c["content"] for c in captions if c["type"] == "text"])
+
+        footnotes = content.get("table_footnote", [])
+        footnote_text = " ".join([f["content"] for f in footnotes if f["type"] == "text"])
+
+        label = caption_text or footnote_text or "Table data"
+
+        # Convert HTML → readable text
+        soup = BeautifulSoup(html, "html.parser")
+        rows = []
+        for tr in soup.find_all("tr"):
+            cols = [td.get_text(strip=True) for td in tr.find_all(["td", "th"])]
+            rows.append(" | ".join(cols))
+
+        table_text = "\n".join(rows)
+
+        return f"[TABLE: {label}]\n{table_text}\n[RAW_HTML]\n{html}"
 
     # ---- IGNORE NOISE ----
     elif btype in ["page_header", "page_footer", "page_number", "page_footnote"]:
@@ -132,6 +157,17 @@ def create_rag_chunks(sections, source_name):
         full_text = "\n".join(sec["content"]).strip()
 
         if not full_text:
+            continue
+
+        if "[TABLE:" in full_text:
+            final_chunks.append({
+                "text": full_text,
+                "section_path": " > ".join(sec["path"]),
+                "section_level": sec["level"],
+                "chunk_id": 0,
+                "source": source_name,
+                "type": "table"
+            })
             continue
 
         sub_chunks = chunk_text(full_text)
