@@ -1,0 +1,7 @@
+streamlit
+requests
+pymupdf
+pymupdf
+mineru
+sentence-transformers 
+faiss-cpu
