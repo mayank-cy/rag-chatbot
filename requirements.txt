@@ -2,6 +2,6 @@ streamlit
 requests
 pymupdf
 pymupdf
-mineru
-sentence-transformers 
+# mineru
+# sentence-transformers 
 faiss-cpu

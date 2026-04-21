@@ -1,0 +1,4614 @@
+[
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/cc15e0a9eef43f18f58025cf3112efc5b3575df91a66ec4a93357e6ab380262a.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                346,
+                160,
+                658,
+                383
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "e NATIONAL LEARNING WEEK"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                276,
+                412,
+                732,
+                517
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "19th – 27th October 2024"
+                    }
+                ]
+            },
+            "bbox": [
+                323,
+                542,
+                661,
+                571
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Consolidated Report"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                99,
+                744,
+                519,
+                852
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "DEPARTMENT OF PERSONNEL&TRAINING"
+                    }
+                ]
+            },
+            "bbox": [
+                119,
+                46,
+                310,
+                94
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "CAPACITYBUILDING"
+                    }
+                ]
+            },
+            "bbox": [
+                383,
+                51,
+                606,
+                90
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "KARMAYOGI BHARAT m"
+                    }
+                ]
+            },
+            "bbox": [
+                676,
+                47,
+                890,
+                93
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "TABLE OF CONTENTS"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                88,
+                101,
+                284,
+                121
+            ]
+        },
+        {
+            "type": "index",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 1. Background and Objectives of Karmayogi Saptah.. 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.1 Mission Karmayogi ... . 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.2 Karmayogi Saptah - National Learning Week .. .. 3"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.2.1 Karmayogi Saptah Initiatives .. ..... 4"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "1.2.2 Engagement and Participation . .. 5"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 2. Karmayogi Saptah Performance. .. 6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.1 Course enrolment and completion .. .... 6"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.2 Achievement of Karmayogis . .... 7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "2.3 Top Courses of the Karmayogi Saptah.. ... 7"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 3. Webinars and Events .. .. 8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.1 Central Webinars During Karmayogi Saptah.. ... 8"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.2 MDO wise competency-based learnings .. ..... 9"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3 MDO Webinars Viewership .... ... 10"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3.3.1 Samuhik Charchas (Group Discussions) ... ... 10"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 4. Competency Based Couse Consumption.... .... 11"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 5. Karmayogi Saptah Groupwise Performance ... .... 12"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "5.1 Top Courses by Different Groups.. .... 12"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 6. Momentum and Recognition Created During Karmayogi Saptah . ... 13"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 7. Way Forward... ... 18"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 8. Questions Raised... ..... 19"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Chapter 9. Conclusion .. ... 20"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.1 Reflecting on Achievements of NLW and Karmayogi Saptah . .. 21"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.2 Challenges and Lessons Learned .. .. 21"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.3 Fostering a Culture of Lifelong Learning.... ... 21"
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "9.4 Expanding the Vision of Mission Karmayogi .. ... 22"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                127,
+                915,
+                776
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "2"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                905,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 1. Background and Objectives of Karmayogi Saptah"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                92,
+                735,
+                116
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.1 Mission Karmayogi"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                142,
+                330,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The National Programme for Civil Services Capacity Building (NPCSCB)- Mission Karmayogi1 is a transformative initiative aimed at building a competent civil service deeply rooted in Indian ethos. The mission emphasizes a shared understanding of India's priorities, with civil servants working in harmony to ensure effective and efficient public service delivery. Mission Karmayogi focuses on empowering the civil service to thrive in dynamic environments, addressing the evolving needs of governance and enhancing government-citizen interaction. By equipping civil servants with the necessary skills and competencies, the mission facilitates the realization of Viksit Bharat by 2047."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                170,
+                910,
+                301
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A core component of Mission Karmayogi is the Integrated Government Online Training (iGOT)2 Karmayogi platform, launched in 2022. This platform serves as the digital backbone of the mission, providing a comprehensive learning ecosystem accessible to civil servants across India. iGOT Karmayogi hosts a range of self-paced courses, webinars, and peer-learning opportunities that cover a variety of governance, policy, management, and technical skills. With 2.4 crore+ course enrollments, 1.7 crore+ course completions, and a library of 1,450+ courses available in multiple languages, iGOT Karmayogi is central to the professional development of India's civil servants. Through this platform, Mission Karmayogi aims to embed a culture of lifelong learning, ensuring civil servants are equipped with the skills needed to tackle complex governance challenges."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                308,
+                910,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The platform offers a dynamic, interactive learning experience, incorporating Karma Points and certificates to encourage civil servants' participation in competency-building efforts. These mechanisms support personal and professional development while fostering a sense of accountability and achievement among civil servants."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                481,
+                910,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2 Karmayogi Saptah - National Learning Week"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                582,
+                584,
+                603
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Karmayogi Saptah (National Learning Week), held from 19th October to 27th October 2024, was a landmark event under Mission Karmayogi. This initiative is a cornerstone of India’s effort to enhance the capacity and competency of its civil service. Designed by the Department of Personnel and Training (DoPT), Capacity Building Commission (CBC), and Karmayogi Bharat (KB), Karmayogi Saptah promotes a forward-thinking approach to public service development. Its ultimate aim is to foster a dynamic and responsive civil service workforce, capable of addressing India’s growing governance needs and supporting the country's journey towards becoming a Viksit Bharat by 2047."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                611,
+                910,
+                742
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Hon’ble Prime Minister, Shri Narendra Modi launched the ‘Karmayogi Saptah’ (National Learning Week) on 19th October 2024 at Dr Ambedkar International Centre in New Delhi. Addressing the gathering, the Prime Minister stated that through Mission Karmayogi our goal is to create human resources that would become the driving force of our country’s development. He underlined that the new learnings and experiences during the Karmayogi Saptah will empower the civil servants and help in improving working ecosystems, enabling them to achieve the goal of Viksit Bharat by 20473 ."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                747,
+                910,
+                823
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "1 Mission Karmayogi Link"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                875,
+                238,
+                890
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "2 IGOT portal Link"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                890,
+                207,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "3"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                88,
+                92,
+                908,
+                128
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/3eda0d88474c40cdde129f9e5ad02b86912234b8fda81fe4429d40a956c8b986.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 1: Hon’ble PM launches ‘Karmayogi Saptah’"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                129,
+                133,
+                839,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Highlight of the event was also the launch Karmayogi Competency Model (KCM)4 by Hon’ble Prime Minister for all Civil Service officials. Karmayogi Competency Model is the model for public human resource management based on Indic wisdom & tenets of Mission Karmayogi."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                330,
+                908,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah was conceptualized to engage over 30 lakh central civil service officials and encourage participation from officials in State and Urban Local Bodies (ULBs). The primary objective was to highlight the importance of skill enhancement and align civil servants with the broader national goals. The event also emphasized the \"One Government\" approach, encouraging cross-functional learning and collaborative efforts within public administration."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                395,
+                910,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By fostering a shared learning experience, Karmayogi Saptah aimed to inspire innovation, improve job performance, and equip civil servants with the skills necessary to respond to complex governance challenges. The weeklong program provided a rich and diverse array of knowledge and perspectives, making it a catalyst for embedding a culture of continuous learning across India’s civil services."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                494,
+                910,
+                569
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2.1 Karmayogi Saptah Initiatives"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                583,
+                393,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Throughout the week, over 200+ webinars and workshops were conducted, both online and in person, spanning a range of critical topics from governance to technology, health, education, and climate. These sessions brought together thought leaders, subject matter experts, and inspirational figures to share their insights with India’s civil servants. The Indic speakers at the central webinars brought valuable perspectives on governance and leadership. David Frawley discussed \"Excellence in Service\" through the Karmayogi lens, emphasizing integrity and balance. Raghava Krishna focused on integrating ancient Indic traditions to address future governance challenges, while Sunita Bhuyan highlighted the role of cultural expression and music. Esteemed speakers included Kris Gopalakrishnan, co-founder of Infosys; Dr. Soumya Swaminathan, a global health expert; and Abhinav Bindra, an Olympic gold medalist. Sessions such as \"AI to Revolutionize Governance and Society,\" led by Srikanth Velamakanni, and \"Digital Public Infrastructure: Opportunities Going Forward,\" presented by Nandan Nilekani and Shankar Maruwada, showcased how technological advancements could improve public service delivery and governance."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                609,
+                911,
+                851
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "3 PM Karmayogi Saptah Launch News Link"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                875,
+                343,
+                890
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "4 Karmayogi Competency Model Link"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                890,
+                300,
+                906
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "4"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                929,
+                905,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to the webinars, a curated list of recommended courses was created for each ministry and officer level (Group A, B, and C) aligned with their respective Annual Capacity Building Plans (ACBP). The courses were mapped to the required competencies , ensuring relevant skill development at all levels. Ministries, Departments, and Organizations (MDOs) also offered customized courses through the iGOT platform, which ranged from digital governance to financial management, public health, and environmental sustainability."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                92,
+                910,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Group discussions, known as Samuhik Charchas, further promoted peer learning on themes such as citizen service, emergency response, and digital innovation. These discussions facilitated collaboration and the exchange of insights, ultimately enhancing cross-functional skills."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                210,
+                910,
+                266
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The content for Karmayogi Saptah was carefully curated to address both contemporary issues and emerging fields such as artificial intelligence, climate resilience, and digital governance, equipping civil servants with cutting-edge knowledge that can be applied to their daily responsibilities. A significant feature of Karmayogi Saptah was the focus on real-world applications of learning, inspiring civil servants to think innovatively and proactively about their roles."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                273,
+                910,
+                366
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1.2.2 Engagement and Participation"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                381,
+                406,
+                398
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah witnessed a substantial increase in activity on the iGOT platform, underscoring the enthusiasm of civil servants for the learning initiatives. During the week, over 45.4 lakh course enrolments and over 32.5 lakh course completions were recorded across a wide array of topics. The surge in platform engagement highlights the willingness of civil servants to invest in their professional growth and underscores the value of iGOT as an accessible, flexible learning environment. Karma Points awarded for course completions motivated users to reach their learning goals, and ministry and departmental rankings created friendly competition, further incentivizing participation."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                406,
+                910,
+                537
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The reach and impact of Karmayogi Saptah were significantly amplified by an extensive media campaign, both online and offline. Digital media coverage was instrumental, with the hashtags #NationalLearningWeek and #KarmayogiSaptah achieving an overall reach of 1.74 crores5 . The launch of Karmayogi Saptah by Hon’ble Prime Minister Shri Narendra Modi contributed to the campaign’s momentum, generating substantial social media engagement, particularly on Twitter, which accounted for 53% of mentions. Influential figures and government officials, including the Hon’ble Prime Minister himself, Hon’ble Minister of State (for Science & Technology; Personnel, Public Grievances & Pensions; Atomic Energy; Space & Prime Minister’s Office) Dr. Jitendra Singh, Hon’ble Minister of Coal and Mines Shri G. Kishan Reddy and Hon’ble Minister of Health Shri JP Nadda, contributed posts and updates on platforms like Twitter and Instagram, highlighting the significance of Karmayogi Saptah for India’s civil services."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                544,
+                911,
+                747
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Furthermore, major news agencies and government platforms like Dainik Jagran, All India Radio, Economic Times, and MyGov extended the reach of Karmayogi Saptah, with popular IAS preparation YouTube channels also providing event coverage during the week. Offline media played a complementary role, with extensive coverage in print publications, including Hindustan Times and Amar"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                755,
+                911,
+                829
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "5 Source: Brand Mentions (Social Listening Tool)"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                872,
+                362,
+                888
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "5"
+                    }
+                ]
+            },
+            "bbox": [
+                893,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ujala, and regional outlets. The inclusion of Karmayogi Saptah on these platforms ensured widespread awareness and underscored the initiative’s significance for the broader public."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                92,
+                908,
+                130
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In conclusion, this report provides a comprehensive overview of Karmayogi Saptah as a pivotal national initiative, highlighting its impact in mobilizing and empowering civil servants across India. It captures the unprecedented engagement levels, the collaborative efforts of various ministries and departments, and the extensive range of learning events designed to build competencies and align the public service workforce with national development goals. Through detailed analysis of participation metrics, course completions, and feedback, the report sheds light on the scale and effectiveness of the initiative in fostering a unified, capable, and citizen-centric civil service. Ultimately, this report aims to inform readers of the achievements, challenges, and forward-looking strategies that underpin the vision of Mission Karmayogi, setting the course for sustained progress towards a \"Viksit Bharat\" by 2047."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                136,
+                910,
+                305
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 2. Karmayogi Saptah Performance"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                327,
+                550,
+                348
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "With the support and leadership of all ministries, departments, organizations, and civil service training institutions, there was enthusiastic participation across the board. The following data provides a comprehensive overview of the week’s impact and achievements, reflecting the dedication of learners to professional growth and development."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                356,
+                910,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.1 Course enrolment and completion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                457,
+                478,
+                478
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During Karmayogi Saptah, 9 times increase (than normal daily rate) in daily average course completions was observed. Karmayogi Saptah achieved a staggering 45.4 lakh+ course enrolments and accordingly 32.5 lakh+ course completions which led to a total of 38.5 lakh+ learning hours."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                486,
+                908,
+                541
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/700b6f630fb0d4ae354e025bc7fd7986e7851a95cd56756eb2f31577ffe34792.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 2: Karmayogi Saptah Enrolment, Completion & learning hours"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                261,
+                545,
+                732,
+                789
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The average daily course completion during the Karmayogi Saptah 2024 exceeded 3.5 Lakhs while reaching 6.2 Lakhs+ on "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "2 4 ^ { \\mathrm { t h } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "October 2024 (for details refer 0)"
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                832,
+                906,
+                869
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.2 Achievement of Karmayogis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                137,
+                419,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The national learning week witnessed active trackable participation of 7.4 Lakh+ individuals (some individuals participated through offline workshop or collectively attended webinars which are not included in data). Out of these, 4.2 Lakh+ individuals completed targeted learning of at least 4 hours."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                166,
+                910,
+                222
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "While there was active participation from all Ministries, Departments and Organizations following are the top MDOs as per leaderboards based on target completion: (For details go to Appendix 3)"
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                228,
+                908,
+                267
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/0652ea391650aa883ce58e61d34cc9bd4c36f97f41b85e08646d89843f36de4c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 1: Top MDO with Karmayogi Saptah Target Completion"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>MDO</td><td rowspan=1 colspan=1>ONBOARDED</td><td rowspan=1 colspan=1>NO OF USERS COMPLETING4 HR+ LEARNING</td><td rowspan=1 colspan=1>%USERS</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>North Central Railway (NCR)</td><td rowspan=1 colspan=1>71,243</td><td rowspan=1 colspan=1>30,982</td><td rowspan=1 colspan=1>43.49</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Central Board of Direct Taxes (CBDT)</td><td rowspan=1 colspan=1>64,803</td><td rowspan=1 colspan=1>26,705</td><td rowspan=1 colspan=1>41.21</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>North Western Railway (NWR)</td><td rowspan=1 colspan=1>52,420</td><td rowspan=1 colspan=1>19,836</td><td rowspan=1 colspan=1>37.84</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Eastern Railway (ER)</td><td rowspan=1 colspan=1>1,03,361</td><td rowspan=1 colspan=1>37,551</td><td rowspan=1 colspan=1>36.33</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Western Railway (WR)</td><td rowspan=1 colspan=1>93,378</td><td rowspan=1 colspan=1>26,756</td><td rowspan=1 colspan=1>28.65</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                287,
+                910,
+                434
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2.3 Top Courses of the Karmayogi Saptah"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                473,
+                517,
+                494
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The course \"Overview of Viksit Bharat 2047\" was the most popular, with over 3.07 lakh completions, demonstrating strong interest in the vision for India's future. Other high-engagement courses included \"Swachata Hi Seva - 2024,\" with over 90,400 completions. Additionally, courses on essential governance topics, such as Public Governance Models, the Citizens' Charter, and workplace ethics, saw high participation, indicating a focus on building core competencies in the public sector."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                502,
+                910,
+                593
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/7bb8732a3ff27d13f52c2522f74e78bd3f58d91d7433a400a6d82565cc1439f9.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 2: List of top 10 courses based overall course completions"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S. N.</td><td rowspan=1 colspan=1> Top Course Name</td><td rowspan=1 colspan=1>Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>3,07,600+</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Training Module on Swachata Hi Seva - 2024</td><td rowspan=1 colspan=1>90,400+</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Overview of Passes and PTO</td><td rowspan=1 colspan=1>89,000+</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Public Governance Models</td><td rowspan=1 colspan=1>70,100+</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Basic information of Citizens&#x27; Charter</td><td rowspan=1 colspan=1>67,700+</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Code of Conduct for Government Employees</td><td rowspan=1 colspan=1>64,800+</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Conduct rules (Railways)</td><td rowspan=1 colspan=1>64,700+</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Prevention of Sexual Harassment of Women at Workplace</td><td rowspan=1 colspan=1>62,200+</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>- 2024  gf&amp;(Hindi Module)</td><td rowspan=1 colspan=1>61,000+</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>57,400+</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                593,
+                910,
+                801
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The popularity of wellness and soft skills courses, like \"Yoga Break at Workplace\" and \"Team Building,\" further emphasizes the initiative's dedication to fostering the overall well-being and professional development of government employees. (For more details go to Appendix 2)"
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                833,
+                908,
+                890
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 3. Webinars and Events"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                93,
+                433,
+                113
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The highlight of Karmayogi Saptah was the series of central webinars featuring 24 prominent speakers from diverse sectors, each chosen for their expertise in areas that directly impact governance and public administration. These webinars attracted a broad audience, offering a unique opportunity for civil servants to engage with national and global leaders."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                122,
+                910,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A major initiative led by the Ministries, Departments, and Organizations (MDOs) were the tailored courses on the iGOT platform, addressing specific competencies and sectoral needs. These courses covered diverse topics, from digital transformation and fiscal responsibility to public health and environmental policy, equipping civil servants with role-relevant knowledge and skills."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                204,
+                908,
+                279
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/446b5b411e970bcf583d924c4e845297d8ca99710c158b63992870a5186c8e13.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 3: Webinars Performance"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                160,
+                282,
+                828,
+                474
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Additionally, ‘Samuhik Charchas’ (group discussions) facilitated peer learning among the civil services on key themes like citizen engagement, crisis management, and digital governance. These sessions fostered collaboration, allowing civil servants across sectors to exchange insights and discuss practical applications, ultimately enhancing cross-functional skills and strengthening a unified \"One Government\" approach within the civil services."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                532,
+                910,
+                626
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.1 Central Webinars During Karmayogi Saptah"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                641,
+                576,
+                661
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The central webinars served as essential learning sessions, featuring prominent speakers from diverse fields, with a particular emphasis on those contributing to the Indic knowledge framework. These sessions aimed to broaden civil servants' perspectives by drawing upon India's rich cultural, philosophical, economical and scientific heritage. Notable speakers included David Frawley, an advocate of Indic Knowledge Systems, who explored the concept of “Excellence in Service” through the Karmayogi lens, encouraging civil servants to adopt principles of integrity, dedication, and balance rooted in ancient wisdom. Raghava Krishna, another prominent figure, spoke about cultivating a multidisciplinary approach for complex future challenges, discussing how ancient Indic traditions offer insights that can enhance contemporary governance and foster innovation."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                670,
+                910,
+                837
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Apart from the Indic speakers, crucial domains like technology, healthcare, environmental sustainability, infrastructure, and finance. In technology, speakers like Kris Gopalakrishnan and Nandan Nilekani highlighted India's need to become a global R&D hub and leverage digital public infrastructure to enhance governance. They emphasized the importance of fostering innovation, expanding digital accessibility, and building a supportive ecosystem for emerging technologies such as AI and semiconductors, with Anand Ramamoorthy underscoring the strategic relevance of the semiconductor industry for India’s future. In the healthcare domain, leaders such as Dr. Soumya Swaminathan addressed the pressing need for a robust public health infrastructure, advocating strategies for universal health access and resilience. This focus on health extended to mental well-being, with spiritual leaders like Gurudev Sri Sri Ravi Shankar and Sister B.K. Shivani guided the civil servants on stress management, mindful living and cultivating a mindful workplace culture, all essential for effective public service leadership."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                843,
+                910,
+                900
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                81,
+                92,
+                910,
+                258
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Environmental resilience was another key theme, with experts like Mridula Ramesh discussing climate change and water security, urging civil servants to adopt sustainable practices in policy and administration. Infrastructure was also in focus, with Vinayak Chatterjee outlining the stages of infrastructure development and the strategies needed to address India’s infrastructure gaps. Complementing this, financial experts such as Neelkanth Mishra and Tobias Adrian offered insights on global financial stability and India’s economic role, helping civil servants understand the impact of economic trends on governance."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                265,
+                911,
+                395
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/d2e8c6f709acc488190dc93d30c6b9831b8cf01b1e19e06d6488ff3a1c5c3d79.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 4: Central Webinar Performance"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                156,
+                398,
+                833,
+                640
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These sessions, covering fields from education and inclusive growth to sports and music as tools for personal development, collectively inspired civil servants to innovate and adopt a holistic approach to governance. Each speaker brought unique insights, reinforcing Karmayogi Saptah’s mission to build a knowledgeable, skilled, and resilient civil service. (For details, please go to 0)"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                694,
+                910,
+                770
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.2 MDO wise competency-based learnings"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                796,
+                531,
+                816
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During Karmayogi Saptah, individual Ministries, Departments, and Organizations (MDOs) played a significant role in delivering a diverse range of courses, workshops, and discussions tailored to the unique competencies and challenges of their respective sectors. These MDO-led courses aligned with Karmayogi Saptah’s objective of building specific skills, enhancing domain knowledge, and addressing functional and behavioural competencies in public administration. By empowering MDOs to conduct customized courses, Karmayogi Saptah enabled a targeted approach to capacity building, allowing civil servants across sectors to engage in specialized training directly applicable to their roles."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                824,
+                910,
+                900
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "9"
+                    }
+                ]
+            },
+            "bbox": [
+                892,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                81,
+                92,
+                908,
+                148
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3 MDO Webinars Viewership"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                162,
+                406,
+                183
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MDOs designed their courses to meet the specific needs of their teams and focus areas. 175+ sessions, hosted on the iGOT platform, covered topics essential to both policy implementation and day-to-day operational efficiency. Some MDOs emphasized technical skills, offering courses on digital tools and data management, while others focused on improving public service delivery through modules on citizen engagement and effective communication. (For details, please go to Appendix 1)"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                191,
+                910,
+                285
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/6533282ff8b25e75bbbabe4148181c3fe209ea52e1c0a69c219f91bee9785c5b.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 5: MDO specific Webinar Performance"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                156,
+                285,
+                833,
+                522
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3.3.1 Samuhik Charchas (Group Discussions)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                577,
+                475,
+                594
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Samuhik Charchas, were a distinctive feature of Karmayogi Saptah, providing civil servants with a platform to engage in meaningful dialogue, share experiences, and foster collaborative learning. These peer-learning sessions were designed to supplement formal training with an interactive approach, encouraging participants to discuss real-world applications of their learning, share best practices, and collectively address challenges."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                602,
+                910,
+                695
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Each Samuhik Charcha focused on key governance themes, with MDOs facilitating discussions among civil servants. Topics included Citizen-Centric Governance, Digital Transformation (e-governance, digital literacy, AI), Public Health Initiatives (pandemic preparedness and crisis management), Sustainable Development (climate resilience and eco-friendly policies), and Leadership and Decision-Making (enhancing leadership, strategic planning, and ethical standards in public service). These sessions promoted the exchange of ideas and best practices across various levels of government. The success of the MDO courses and Samuhik Charchas underscored the value of collaborative learning within India’s civil services."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                702,
+                911,
+                851
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "10"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/550494073cec04da2f5d3ef523d88a538120988bb093a349a901b87e667e13ce.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 6: Samuhik Charcha"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                89,
+                89,
+                900,
+                234
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "By encouraging interdepartmental knowledge-sharing and specialized training, Karmayogi Saptah laid the groundwork for ongoing capacity-building efforts under Mission Karmayogi. CBC, in collaboration with Karmayogi Bharat, plans to sustain this momentum through regular initiatives like Karmayogi Talks, a weekly series where thought leaders will discuss relevant topics for civil servants."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                266,
+                908,
+                342
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 4. Competency Based Couse Consumption"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                364,
+                633,
+                387
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "During Karmayogi Saptah, the top courses in Behavioral, Functional, and Domain Competencies recorded significant participation, with \"Overview of Viksit Bharat 2047\" consistently leading across all categories at an impressive 3.07 lakh+ completions. High-completion Behavioral courses, such as \"Swachata Hi Seva - 2024\" and \"Yoga Break at Workplace,\" reflect a strong interest in well-being and social responsibility initiatives. In Functional Competency, governance-related courses like \"Public Governance Models\" and \"Code of Conduct for Government Employees\" were notably popular. Meanwhile, Domain Competency courses saw high engagement in railway-related topics and digital transformation, underscoring the platform’s ability to provide relevant learning across diverse areas for government employees."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                395,
+                910,
+                577
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f32fb07ede497cd532c45b947806ac2aa9c9d8414f4753d8b8ba0b4874227877.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top 5 courses are given below, for further details please go to Appendix 6"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Table 3: Top 5 Functional, Behavioral and Domain Courses"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S. N.</td><td rowspan=1 colspan=1>Behavioral</td><td rowspan=1 colspan=1>Functional</td><td rowspan=1 colspan=1>Domain</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat2047</td><td rowspan=1 colspan=1>Overview of Viksit Bharat2047</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Training Module on SwachataHi Seva -2024</td><td rowspan=1 colspan=1>Public Governance Models</td><td rowspan=1 colspan=1>Overview of Passes and PTO</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>Code of Conduct forGovernment Employees</td><td rowspan=1 colspan=1>Basic information of Citizens&#x27; Charter</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Team Building</td><td rowspan=1 colspan=1>Prevention of SexualHarassment</td><td rowspan=1 colspan=1>Conduct rules (Railways)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Jan Bhagidari Program</td><td rowspan=1 colspan=1>Conduct rules (ISTM)</td><td rowspan=1 colspan=1>Empowering Tomorrow: DigitalTransformation (DoP)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                602,
+                910,
+                803
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "11"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 5. Karmayogi Saptah Groupwise Performance"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                93,
+                673,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In the Government of India, employees are categorized as Group A, Group B, and Group C, based on their hierarchical levels and specific roles and responsibilities. Group A officers, occupying the highest tier, are responsible for decision-making, policy formulation, and overseeing significant administrative functions across departments. Group B employees primarily support Group A officers by handling supervisory duties and assisting with the execution of policies at various operational levels. Group C employees are typically involved in routine, clerical, or technical tasks, ensuring day-to-day functions within government offices run smoothly."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                122,
+                910,
+                252
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following table elucidates the overall consumption i.e. Course Completions and Cumulative Learning Hours by learners of each group."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                260,
+                908,
+                295
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/11945d46b6641b4f223c7df628d6ec5ef6f851a6a22795be064282ff5c822077.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Table 4: Group Wise Course Completion & Learning Hours"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Groups</td><td rowspan=1 colspan=1>Total Course Completions</td><td rowspan=1 colspan=1> Total learning duration (Hours)</td></tr><tr><td rowspan=1 colspan=1>Group A</td><td rowspan=1 colspan=1>1,60,000+</td><td rowspan=1 colspan=1>2,11,000+</td></tr><tr><td rowspan=1 colspan=1>Group B</td><td rowspan=1 colspan=1>2,30,000+</td><td rowspan=1 colspan=1>3,03,000+</td></tr><tr><td rowspan=1 colspan=1>Group C</td><td rowspan=1 colspan=1>18,20,000+</td><td rowspan=1 colspan=1>20,58,000+</td></tr><tr><td rowspan=1 colspan=1>Others</td><td rowspan=1 colspan=1>11,20,000+</td><td rowspan=1 colspan=1>12,06,000+</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                295,
+                910,
+                396
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5.1 Top Courses by Different Groups"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                421,
+                465,
+                441
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following set of tables shows distinct learning preferences across different user groups. \"Overview of Viksit Bharat 2047\" is the most completed course among all groups, underscoring a strong alignment with India's development vision. Group-A users prioritize foundational courses on ethics and emerging technology, with high completions in \"Code of Conduct for Government Employees\" and \"ChatGPT and Generative AI tools for Government Officials.\" Group-B shows interest in practical workplace skills, including \"Yoga Break at Workplace\" and \"Stay Safe in Cyber Space.\" Group-C users, largely operational roles, focus on governance and domain-specific modules like \"Conduct Rules\" and \"Overview of Passes and PTO,\" reflecting diverse needs."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                449,
+                910,
+                597
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/33bc013576e1a2f591634aca5e8dc579637df9c7959bb31234bdfd065a33a172.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top 5 courses for each Group of officers is provided below: (for more details go to Appendix 7)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Table 5: Top 5 courses Group A, B and C"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S. N.</td><td rowspan=1 colspan=1>Group A</td><td rowspan=1 colspan=1>Group B</td><td rowspan=1 colspan=1>Group C</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Code of Conduct for GovernmentEmployees</td><td rowspan=1 colspan=1>Code of Conduct forGovernment Employees</td><td rowspan=1 colspan=1>Overview of Passes and PTO</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>Conduct Rules (Railways)</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1> Understanding Mission Karmayogi</td><td rowspan=1 colspan=1>Training Module on SwachataHi Seva - 2024</td><td rowspan=1 colspan=1> Indian Railways - Leave Rules(English)</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>ChatGPT and Generative Al tools forGovernment Officials</td><td rowspan=1 colspan=1>ChatGPT and Generative Altools for Government Officials</td><td rowspan=1 colspan=1>Railways Act Essentials (Part-l)</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                621,
+                911,
+                777
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "12"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 6. Momentum and Recognition Created During Karmayogi Saptah"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                93,
+                895,
+                116
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah 2024 created significant buzz across social and traditional media, amplifying its visibility and influence throughout the country. The event's momentum surged with its launch by Hon'ble Prime Minister Shri Narendra Modi, drawing attention and fostering engagement across government departments and the public. Numerous newspapers, television channels, and online platforms highlighted key sessions and initiatives, reflecting the government’s commitment to capacity building and skills development for civil servants. The strong media presence helped reinforce the vision of Mission Karmayogi, inspiring public and governmental interest in the week’s learning sessions and the broader goals of transformative governance."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                130,
+                911,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Karmayogi Saptah achieved an impressive overall reach of 1.74 Crore viewers6 , capturing widespread attention across all digital platforms. With 57,800 interactions and 691 posts/ articles on social media, the event generated robust engagement and sparked meaningful conversations. This impactful reach highlights the significant resonance and enthusiasm for the initiative among civil servants and the public alike."
+                    }
+                ]
+            },
+            "bbox": [
+                84,
+                315,
+                911,
+                420
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/5b0223052a4bc4aeb02eb5323e749aa22cf64a8d71cf2303dee31cfb26a65914.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "The following are the various kinds of coverage received for Karmayogi Saptah:"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                240,
+                444,
+                732,
+                551
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Media Channel Coverage"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                619,
+                338,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah received considerable attention in major national newspapers (both digital and print), with multiple top-tier publications covering the launch and daily event updates. Leading outlets like Hindustan Times, Amar Ujala, Deccan Herald, and Dainik Jagran highlighted the event's significance, with over 36 print articles emphasizing the importance of continuous civil service training, Mission Karmayogi’s objectives, and the daily activities during Karmayogi Saptah. These articles underscored the national importance of skill development within government ranks, reinforcing the event’s goal of fostering a learning culture among public servants."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                657,
+                911,
+                789
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "6 Source: Brand Mentions (Social Listening Tool)"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                872,
+                362,
+                888
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "13"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [],
+                "level": 2
+            },
+            "bbox": [
+                91,
+                109,
+                429,
+                133
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ce40d016db3d3f783d226a57edc568686bf6d781af7113cbad2e3fdef494ba7c.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                91,
+                136,
+                202,
+                247
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                205,
+                171,
+                315,
+                248
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 7: Excerpt from a Hindi Newspaper"
+                    }
+                ]
+            },
+            "bbox": [
+                111,
+                257,
+                312,
+                271
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2020"
+                    }
+                ]
+            },
+            "bbox": [
+                318,
+                179,
+                428,
+                247
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/35681d113ba9538a27f15b43f1067acc02eb7b1970adcb897daa3ff8bfacd535.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 9: Amar Ujala Newspaper Article on the PM Inauguration"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                117,
+                292,
+                388,
+                462
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Civil servants mustkeep abreast oflatest technologies,saysModi"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                545,
+                104,
+                750,
+                128
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/86a66388aa3d58e551fe6105bfe998c13d4d630e1679ee6787228ebade2a0eb5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 8: Hindustan Times highlights the launch of Karmayogi Saptah"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                545,
+                130,
+                750,
+                252
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/74ef34e4fa0caca21ed4c9e3854437775a437156c6afc460f88c46bd2d38fd04.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 10: Regional newspaper covering the Karmayogi Saptah"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                485,
+                316,
+                901,
+                455
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Radio Broadcasts"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                89,
+                537,
+                269,
+                554
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On radio, Akashvani channel featured Karmayogi Saptah prominently in its spotlight program. With a strong online presence through its YouTube channel, which has over 6.6 Lakh subscribers, Akashvani extended Karmayogi Saptah’s reach through multiple video uploads that included leadership interviews and event highlights."
+                    }
+                ]
+            },
+            "bbox": [
+                88,
+                574,
+                908,
+                648
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/e3151089e9c633c5645e85aa9d8a0707bb4e0946672c51c33ab7da5cf5d25447.jpg"
+                },
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                321,
+                662,
+                674,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Figure 11: Akashvani AR YouTube Channel on Karmayogi Saptah"
+                    }
+                ]
+            },
+            "bbox": [
+                325,
+                845,
+                673,
+                861
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "1"
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                89,
+                94,
+                98
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "14"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                940
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Digital and Social Media Outreach"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                88,
+                92,
+                415,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah’s digital campaign reached an impressive 1.74 crore people 7 on digital media alone, with a significant surge in interest following the Prime Minister’s launch announcement. On X (formerly Twitter), which accounted for over half of all mentions, there were more than 691 posts/ articles contributing to 57,800 engagements. Social media activity peaked on 25th October 2024, reflecting a 15-fold increase in interactions on the iGOT platform, underscoring the widespread engagement and interest among civil servants and the public alike."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                128,
+                910,
+                241
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/990068d21d13fecfce3a96908845a6a8bb575fd53f2bc4f123b843554a158d32.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 11: X (Twitter) post of Hon'ble Minister, Shri Piyush Goyal"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                187,
+                280,
+                367,
+                481
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7d97e4321d801406fa904e1b7f40c2721decc8e33e5f79b792c13ff5999cefe6.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 12: PMIndia.gov on the Karmayogi Saptah"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                526,
+                304,
+                852,
+                474
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/7ef567f8b4218cf4f1489dfb3155e0fcb452fe489a73e52954c95a3cf31c7028.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 13: Times of India, X (Twitter) post"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                88,
+                515,
+                339,
+                747
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/f49a21da9c5ce437c2f648969f19190030df93323ed339d141eaa906be671190.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 14: Press Trust of India, X (Twitter) post"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                593,
+                518,
+                849,
+                751
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_footnote",
+            "content": {
+                "page_footnote_content": [
+                    {
+                        "type": "text",
+                        "content": "7 Source: Brand Mentions (Social Listening Tool)"
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                872,
+                362,
+                888
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "15"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Influencers and Government Channel Contributions"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                88,
+                92,
+                562,
+                108
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "High-profile government accounts and influential figures played a critical role in boosting the visibility of Karmayogi Saptah. Key contributors included MyGov India, Ministry of Railways, and the Ministry of Health, alongside prominent figures like Hon’ble Prime Minister himself, Hon’ble Minister of State (for Science & Technology; Personnel, Public Grievances & Pensions; Atomic Energy; Space & Prime Minister’s Office) Dr. Jitendra Singh, and Hon’ble Minister of Coal and Mines Shri G. Kishan Reddy, and Hon’ble Minister of Health Shri JP Nadda. Their participation significantly amplified Karmayogi Saptah’s reach and helped reinforce the event's message of capacity building and lifelong learning within the civil service."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                111,
+                910,
+                257
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/f0d8f551dbcb9d5157dd147d5a8810c6c8c3aa2c9881dd3387c4e00df758f5cc.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>Source</td><td rowspan=1 colspan=1> % Mentions</td><td rowspan=1 colspan=1> No. Of Mentions</td></tr><tr><td rowspan=1 colspan=1>X (Twitter)</td><td rowspan=1 colspan=1>53%</td><td rowspan=1 colspan=1>365</td></tr><tr><td rowspan=1 colspan=1>Instagram</td><td rowspan=1 colspan=1>24%</td><td rowspan=1 colspan=1>168</td></tr><tr><td rowspan=1 colspan=1>Facebook</td><td rowspan=1 colspan=1>17%</td><td rowspan=1 colspan=1>119</td></tr><tr><td rowspan=1 colspan=1>News</td><td rowspan=1 colspan=1>2.30%</td><td rowspan=1 colspan=1>16</td></tr><tr><td rowspan=1 colspan=1>Site</td><td rowspan=1 colspan=1>2.00%</td><td rowspan=1 colspan=1>14</td></tr><tr><td rowspan=1 colspan=1>Others</td><td rowspan=1 colspan=1>1.30%</td><td rowspan=1 colspan=1>9</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                271,
+                921,
+                443
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/dba7afc6a0ab468cb75e1c3026a59029297fd02e7f49eaa0b7b2b566799d2ee5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 15: Hindu Newspaper article analysis on the Karmayogi Saptah on IAS prepraration YouTube channel"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                96,
+                477,
+                437,
+                636
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/88084af00c86ed66048f6b5cf8e928096728308a15d330ae27395e103ccc13b0.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 16: The launch video on PM’s YouTube channel"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                544,
+                463,
+                908,
+                628
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "16"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Press Information Bureau (PIB) Involvement"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                88,
+                92,
+                500,
+                109
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PIB actively promoted Karmayogi Saptah, providing consistent updates that yielded 17.99% of the event’s total voice share with an estimated social reach of 93,300. Over the week, PIB published more than 19 press releases, ensuring that the event's milestones were highlighted across government and public platforms."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                128,
+                910,
+                203
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah’s extensive media coverage underscores the power of a unified digital and media strategy, creating widespread awareness of Mission Karmayogi and its objectives. This successful outreach demonstrates a strong foundation for future initiatives and reinforces the role of continuous learning in shaping a skilled, responsive civil service committed to India’s development goals."
+                    }
+                ]
+            },
+            "bbox": [
+                86,
+                220,
+                910,
+                296
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/0f1bd1f9c930fc79e5a11302dae437c5446e0d2f1fb8533abd4f20b67b43fcc5.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "Figure 17: PIB Release on the launch of Karmayogi Saptah Figure"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                91,
+                328,
+                467,
+                710
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/c7679724921849952978535708606b8f98ee652ecc95dbdd40c15b9e4fbdb770.jpg"
+                },
+                "image_caption": [
+                    {
+                        "type": "text",
+                        "content": "18: PIB Release on the central webinars during the Karmayogi Saptah"
+                    }
+                ],
+                "image_footnote": []
+            },
+            "bbox": [
+                529,
+                330,
+                870,
+                705
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "17"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 7. Way Forward"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                93,
+                349,
+                114
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The success of Karmayogi Saptah, in catalyzing lifelong learning should now be built on, to reinforce capacity building for each civil servant. Considering that, the Department of Personnel & Training, the Capacity Building Commission and Karmayogi Bharat aim to continue efforts and carry forward the sustained momentum in the following ways:"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                122,
+                910,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Recognize the efforts of Karmayogis: On 14th November 2024, a valedictory ceremony will be held to recognize, apricate and celebrate the contributions of Ministries, Departments, and Organizations (MDOs), course providers, and dedicated learners. Certificates will be awarded to those who demonstrated exceptional commitment to learning and capacity development throughout the Karmayogi Saptah, celebrating their role in advancing the Mission Karmayogi."
+                    }
+                ]
+            },
+            "bbox": [
+                83,
+                204,
+                910,
+                299
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Establish Karmayogi Saptah as an annual event: With the enthusiastic participation of civil servants nationwide, Karmayogi Saptah has proven to be a powerful platform for fostering lifelong learning. Moving forward, we aim to institutionalize this week as an annual celebration - India’s Festival of Learning - to collectively drive toward a vision of a Viksit Bharat by fostering a culture of knowledge-sharing and continuous self-improvement among civil servants."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                321,
+                911,
+                417
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Continuing Webinar Series – A series of weekly webinars, named Karmayogi Talks, will be conducted every week over the next 52 weeks. This initiative aims to deliver up-to-date knowledge on emerging trends and innovations in governance, keeping civil servants aligned with global advancements and best practices. Each Karmayogi Talk session will focus on a specific topic relevant to public administration and governance, offering civil servants an opportunity to engage with experts and gain insights that will be directly applicable to their roles. Through programs like Karmayogi Talks, the CBC seeks to embed a culture of lifelong learning and adaptive growth within civil services, ensuring that officials remain prepared to meet evolving policy demands and governance challenges. 7-10 of these webinars will be on topics related to Indic Knowledge Systems (IKS). Additional IKS courses and webinars will be made available in an exclusive section/ vertical/ microsite on iGOT before the next National Learning Week for the exclusive IKS Day."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                433,
+                911,
+                638
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Domain Courses: To transition from rule-based to role-based governance, the iGOT Karmayogi platform will expand its offerings, adding over 5,000 high-quality courses by FY 2026. These courses will cover domain competencies as well as essential behavioural and functional skills, enabling targeted capacity building. Currently hosting 1,450+ courses, iGOT Karmayogi will continue to enrich its offerings, ensuring that civil servants can access role-specific training to meet the demands of their unique responsibilities effectively."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                661,
+                911,
+                775
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Courses on Indic Knowledge System: During National Learning Week, there was a huge uptake of Indic Knowledge System webinar and further there was demand on availability of dedicated courses. Moving forward, courses based on Indic Knowledge Systems (IKS) will be made available on the iGOT platform on a dedicated section/ vertical/ microsite to ensure accessibility for all civil service officials. These courses will address essential competencies, including public administration, policymaking, ethics and leadership, a citizen-centric approach, social inclusion, and more. This addition aims to strengthen officials' understanding of IKS based governance practices, enhancing their ability to serve the citizens and country effectively and inclusively."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                806,
+                911,
+                901
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "18"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                116,
+                92,
+                908,
+                148
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "6. ‘One Government’ Approach: Fostering a unified government approach is integral to India’s longterm national goals. To support this, additional courses focused on national objectives and service missions will be launched on iGOT Karmayogi. A noteworthy example is the ‘Overview of Viksit Bharat 2047’ course, taken by over 300,000 learners, which underscores India’s developmental aspirations for the next 25 years. Such courses aim to enhance a shared sense of purpose across the government ecosystem."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                172,
+                910,
+                285
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "7. Onboard States and Urban Local Bodies (ULBs): Recognizing the importance of reaching the last mile, efforts are underway to expand the relevance of iGOT Karmayogi courses for states and urban local bodies, ensuring the nationwide impact of skill-building initiatives. To support inclusivity, courses and webinars will be rapidly translated into regional languages to ensure accessibility for civil servants in diverse regions. By the next Karmayogi Saptah, the target is to onboard at least half of Indian states to strengthen citizen-centric service delivery."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                303,
+                911,
+                414
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "8. Increase outreach campaign: To enhance engagement with the iGOT Karmayogi platform, an expanded outreach campaign will target civil servants across various government ministries, departments, and organizations (central, state & ULB). These efforts will emphasize the platform’s value for professional growth, aiming to maximize usage and promote a culture of learning across the government ecosystem."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                431,
+                910,
+                525
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 8. Questions Raised"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                547,
+                392,
+                569
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The success of National Learning Week (Karmayogi Saptah) generated vibrant discussions and highlighted important avenues for expansion and policy deliberation to strengthen the impact of Mission Karmayogi. Some of the key questions and ideas raised during the week include:"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                578,
+                913,
+                636
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Opening Webinars to a Broader Public Audience"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                651,
+                522,
+                669
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Several participants suggested that selected webinars and learning sessions be opened to a wider public audience, including youth, students, and citizens who are interested in governance, public policy, and nation-building. This approach could promote greater public engagement with government initiatives, create an informed citizenry, and foster a deeper connection between civil servants and the communities they serve. Careful consideration and planning would be needed to balance confidentiality, content appropriateness, and public interest when deciding which sessions to open."
+                    }
+                ]
+            },
+            "bbox": [
+                96,
+                671,
+                916,
+                806
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "2. Expansion to State Governments and Urban Local Bodies (ULBs)"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                81,
+                821,
+                651,
+                839
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Expanding the reach of Karmayogi Saptah to state government officials and representatives of Urban Local Bodies (ULBs) was a recurring suggestion. Such an initiative would further the ‘One Government’ approach by aligning capacity-building efforts across central, state, and local levels. Customized"
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                840,
+                916,
+                900
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "19"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "courses for state and ULB officials, based on regional and local governance needs, could improve service delivery, encourage cross-tier collaboration, and foster a more cohesive governance structure."
+                    }
+                ]
+            },
+            "bbox": [
+                104,
+                92,
+                915,
+                131
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "3. Sharing Select Courses with External Groups"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                146,
+                486,
+                162
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The idea of sharing selected iGOT courses, such as ‘Overview of Viksit Bharat 2047’, with universities, colleges, and the public emerged as a promising way to extend the mission’s impact beyond civil services. Allowing youth and citizens to access courses focused on national development goals, governance frameworks, and civic participation would not only create a larger pool of informed individuals but could also inspire future leaders and civil service aspirants. Policymakers will need to assess the feasibility, legalities, and platform adjustments necessary for such public sharing."
+                    }
+                ]
+            },
+            "bbox": [
+                98,
+                165,
+                906,
+                282
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "4. Access to External Learning Platforms:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                81,
+                301,
+                437,
+                318
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Many civil servants expressed interest in accessing content from external platforms such as Coursera, edX, and others, to diversify their learning experience. Currently, there is no mechanism for such integration or a pricing policy to support it. Exploring partnerships with these platforms and developing a comprehensive pricing strategy and policy framework would broaden the spectrum of learning resources available to civil servants, ensuring global best practices and emerging trends in their fields are within reach."
+                    }
+                ]
+            },
+            "bbox": [
+                99,
+                320,
+                916,
+                435
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Chapter 9. Conclusion"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                462,
+                326,
+                481
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah was a landmark initiative that generated a significant buzz and mobilized a large number of civil servants to engage in targeted learning. This successful endeavour demonstrated the scalability and impact potential of the iGOT Karmayogi platform, creating a unified message that resonated across the civil services. Through a week of intensive learning, Karmayogi Saptah highlighted the benefits of continuous professional development and showcased the government’s commitment to building a competent, forward-thinking, and citizen-centric workforce."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                489,
+                915,
+                602
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The momentum built during Karmayogi Saptah must not be viewed as a one-time success but as a foundational step toward embedding a lifelong learning culture in public service. Moving forward, renewed focus should be placed on increasing participation, introducing innovative learning pathways, and ensuring accessibility to a broader range of stakeholders. By fostering a mindset of continuous improvement, collaboration, and competency-building, the government will empower its civil servants to better address evolving challenges and serve the nation with excellence and foresight."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                609,
+                916,
+                726
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah marks a remarkable milestone in India’s ongoing efforts to strengthen governance through capacity building, knowledge-sharing, and innovative training programs. Organized with a vision to cultivate skills, leadership qualities, and a deeper sense of responsibility among civil servants, the event successfully achieved its objectives by delivering valuable learning sessions and fostering an environment of continuous development. The involvement of distinguished speakers, the participation of a broad range of stakeholders, and the holistic approach to topics—ranging from Indic, technological advancements to public health—illustrate the profound impact of this initiative on public sector employees. As we conclude this report, it is essential to reflect on the achievements of Karmayogi Saptah, acknowledge the challenges encountered, and explore how the momentum generated can propel future initiatives."
+                    }
+                ]
+            },
+            "bbox": [
+                80,
+                739,
+                916,
+                896
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "20"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                81,
+                92,
+                913,
+                128
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.1 Reflecting on Achievements of NLW and Karmayogi Saptah"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                81,
+                147,
+                733,
+                167
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The impact of Karmayogi Saptah is evidenced by the impressive reach and engagement among Central Government officials across Departments and Ministries. Karmayogi Saptah, stood out as a landmark initiative that mobilized a substantial number of civil servants, creating a significant buzz across social and traditional media and amplifying the reach and visibility of the iGOT Karmayogi platform. The Hon'ble Prime Minister’s endorsement of the event helped catalyze widespread engagement, creating a unified message that resonated across the civil services. With over a week of intensive learning sessions and targeted skill-building, Karmayogi Saptah highlighted the benefits of continuous professional development, demonstrating the government’s commitment to building a competent, forward-thinking, and citizen-centric workforce."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                183,
+                911,
+                356
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The carefully curated sessions and workshops introduced new perspectives on crucial governance issues and offered actionable insights and frameworks for problem-solving in the public sector. National and international speakers added value by bringing global best practices into focus, while specific discussions on India’s unique governance challenges ensured relevance to the Indian context. Topics like \"Viksit Bharat 2047,\" which envision India's path to becoming a developed nation, resonated strongly with participants, who were eager to contribute actively to this vision."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                372,
+                910,
+                489
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.2 Challenges and Lessons Learned"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                505,
+                457,
+                525
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Although Karmayogi Saptah achieved its goals, certain challenges underscored areas for improvement in future initiatives. Technical issues, such as ensuring seamless digital engagement across multiple sessions, highlighted the need for robust technological infrastructure to support large-scale online training events. Additionally, coordinating various departments to create a schedule that maximized attendance while balancing participants’ official duties required meticulous planning and adjustment. Feedback indicated a high level of satisfaction with the content; however, suggestions for more interactive sessions underscore the need to incorporate diverse learning methodologies to enhance engagement."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                541,
+                915,
+                678
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.3 Fostering a Culture of Lifelong Learning"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                81,
+                693,
+                534,
+                713
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The momentum built during Karmayogi Saptah should not be viewed as a one-time success but rather as a foundational step toward embedding a lifelong learning culture in public service. Through this initiative, civil servants were encouraged to actively engage in continuous professional development and recognized the benefits of a mindset geared towards growth and adaptability. The scalability and impact demonstrated by the iGOT Karmayogi platform highlight its potential to serve as a central pillar in the mission to cultivate a capable and responsive workforce."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                729,
+                915,
+                844
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "To sustain the momentum generated, it is crucial to integrate regular training sessions and workshops into the public sector’s operational framework. Establishing structured quarterly or bi-annual learning events that build on the skills covered during Karmayogi Saptah would provide continuity and reinforce Mission Karmayogi’s principles. This would allow civil servants to continue building on the foundation laid by Karmayogi Saptah, ensuring that learning is viewed as an ongoing journey rather than a one-time event."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                861,
+                913,
+                898
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "21"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                81,
+                92,
+                915,
+                167
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "9.4 Expanding the Vision of Mission Karmayogi"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                81,
+                185,
+                573,
+                207
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Moving forward, renewed focus should be placed on increasing participation, introducing innovative learning pathways, and expanding accessibility to a broader range of stakeholders. As India advances toward its goals for 2047, future initiatives under Mission Karmayogi will focus on emerging governance priorities, identifying key competencies, and addressing skill gaps in areas such as digital governance, climate resilience, and global trade. This expanded vision will align Mission Karmayogi initiatives with India’s national and international commitments, fostering a public service that is adaptive, resilient, and prepared for the future."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                220,
+                915,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Moreover, introducing customized learning paths for officers based on their roles and departments will ensure that training remains directly relevant to their day-to-day functions and career aspirations. With the support of data analytics, the government can track learning progress, assess training needs, and tailor future modules to meet specific challenges, ensuring that Mission Karmayogi remains agile and responsive to the evolving needs of public service."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                372,
+                915,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Karmayogi Saptah, marks a pivotal step in India’s civil service transformation, aligning with the core objectives of Mission Karmayogi. By offering civil servants the knowledge, skills, and inspiration to excel, these initiatives have set the groundwork for a more dynamic, capable, and citizen-centric governance model. Looking forward, the insights gained, and the enthusiasm generated during Karmayogi Saptah will serve as a catalyst for ongoing advancements within Mission Karmayogi. Through continuous improvement, adaptive learning paths, and a commitment to excellence, the Government of India is wellpositioned to cultivate a world-class civil service, equipped to lead the country into a prosperous and visionary future."
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                484,
+                915,
+                640
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "22"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Appendix"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                99,
+                179,
+                119
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/30a59bdcc03cf9739bc1ed6de7f8268654838431866c2df869d34f4e022cc83a.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 1. List of Ministries / Departments Which Conducted Webinars on IGOT"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1> Ministries / Departments</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Ministry of Corporate Affairs</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Ministry of Railways</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Department of Posts</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Ministry of Health and Family Welfare</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Ministry of Agriculture and Farmers Welfare</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Sashastra Seema Bal</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Ministry of Environment Forest and Climate Change</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Ministry of Housing and Urban Affairs</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Defence Accounts Department</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Department of Telecommunications</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>Bureau of Police Research and Development</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>Ministry of Development of North Eastern Region</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>Central Reserve Police Force</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>Central Bureau of Investigation</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>Department of Science and Technology</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>Department of Chemicals and Petrochemicals</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>Department of Investment and Public Asset Management (DIPAM)</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1>Ministry of Road Transport and Highways</td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>Department of Food and Public Distribution</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>Ministry of Petroleum and Natural Gas</td></tr><tr><td rowspan=1 colspan=1>21</td><td rowspan=1 colspan=1>Department of Pharmaceuticals</td></tr><tr><td rowspan=1 colspan=1>22</td><td rowspan=1 colspan=1>Department of Fertilizers</td></tr><tr><td rowspan=1 colspan=1>23</td><td rowspan=1 colspan=1>Department of Social Justice and Empowerment</td></tr><tr><td rowspan=1 colspan=1>24</td><td rowspan=1 colspan=1>Department Of Pensions and Pensioners&#x27; welfare</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                154,
+                911,
+                667
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "23"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3e40f42fe0c6d7c52b0f8818c18e57c9d66c057ef08dd6c0f39c3d0e1b1dae5c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 2. Top 20 Courses for Karmayogi Saptah"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>Course</td><td rowspan=1 colspan=1> Courses Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>3,07,600+</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Training Module on Swachata Hi Seva - 2024</td><td rowspan=1 colspan=1>90,400+</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Overview of Passes and PTO</td><td rowspan=1 colspan=1>89,000+</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Public Governance Models</td><td rowspan=1 colspan=1>70,100+</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Basic information of Citizens&#x27; Charter</td><td rowspan=1 colspan=1>67,700+</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Code of Conduct for Government Employees</td><td rowspan=1 colspan=1>64,800+</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Conduct Rules (Railways)</td><td rowspan=1 colspan=1>64,700+</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Prevention of Sexual Harassment of Women at Workplace</td><td rowspan=1 colspan=1>62,200+</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>2024</td><td rowspan=1 colspan=1>61,000+</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>57,400+</td></tr><tr><td rowspan=1 colspan=1>11</td><td rowspan=1 colspan=1>Empowering Tomorrow: Digital Transformation and Initiatives of DoP</td><td rowspan=1 colspan=1>57,200+</td></tr><tr><td rowspan=1 colspan=1>12</td><td rowspan=1 colspan=1>Team Building</td><td rowspan=1 colspan=1>55,500+</td></tr><tr><td rowspan=1 colspan=1>13</td><td rowspan=1 colspan=1>Indian Railways - Passes And PTOs (English)</td><td rowspan=1 colspan=1>53,200+</td></tr><tr><td rowspan=1 colspan=1>14</td><td rowspan=1 colspan=1>Conduct rules (ISTM)</td><td rowspan=1 colspan=1>52,900+</td></tr><tr><td rowspan=1 colspan=1>15</td><td rowspan=1 colspan=1>08</td><td rowspan=1 colspan=1>51,900+</td></tr><tr><td rowspan=1 colspan=1>16</td><td rowspan=1 colspan=1>Indian Railways - Leave Rules (English)</td><td rowspan=1 colspan=1>48,400+</td></tr><tr><td rowspan=1 colspan=1>17</td><td rowspan=1 colspan=1>Railways Act Essentials (Part-l)</td><td rowspan=1 colspan=1>47,300+</td></tr><tr><td rowspan=1 colspan=1>18</td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1>46,300+</td></tr><tr><td rowspan=1 colspan=1>19</td><td rowspan=1 colspan=1>Improving Passenger Experience</td><td rowspan=1 colspan=1>45,300+</td></tr><tr><td rowspan=1 colspan=1>20</td><td rowspan=1 colspan=1>Jan Bhagidari Program (English)</td><td rowspan=1 colspan=1>44,300+</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                86,
+                130,
+                910,
+                536
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "24"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 3. Top MDOs by percentage of users who have completed at-least 4 hours of learning (MDO bucket wise)"
+                    }
+                ]
+            },
+            "bbox": [
+                81,
+                107,
+                915,
+                147
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/125a4504654994ae04c7a6b071c3fc000b4681864232f5f1d76e34d2008d682c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top MDOs by % users completing 4hr+ Learning (XL size MDO i.e. above 50,000 users)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>MDO</td><td rowspan=1 colspan=1>ONBOARDED</td><td rowspan=1 colspan=1>NO OF USERS COMPLETING4 HR+ LEARNING</td><td rowspan=1 colspan=1>%USERS</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>North Central Railway (NCR)</td><td rowspan=1 colspan=1>71,243</td><td rowspan=1 colspan=1>30,982</td><td rowspan=1 colspan=1>43.49</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Central Board of Direct Taxes (CBDT)</td><td rowspan=1 colspan=1>64,803</td><td rowspan=1 colspan=1>26,705</td><td rowspan=1 colspan=1>41.21</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>North Western Railway (NWR)</td><td rowspan=1 colspan=1>52,420</td><td rowspan=1 colspan=1>19,836</td><td rowspan=1 colspan=1>37.84</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Eastern Railway (ER)</td><td rowspan=1 colspan=1>1,03,361</td><td rowspan=1 colspan=1>37,551</td><td rowspan=1 colspan=1>36.33</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Western Railway (WR)</td><td rowspan=1 colspan=1>93,378</td><td rowspan=1 colspan=1>26,756</td><td rowspan=1 colspan=1>28.65</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Sashastra Seema Bal (SSB)</td><td rowspan=1 colspan=1>95,113</td><td rowspan=1 colspan=1>17,172</td><td rowspan=1 colspan=1>18.05</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Delhi Police</td><td rowspan=1 colspan=1>64,915</td><td rowspan=1 colspan=1>11,268</td><td rowspan=1 colspan=1>17.36</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Central Board of Indirect Taxes andCustoms(CBIC)</td><td rowspan=1 colspan=1>55,290</td><td rowspan=1 colspan=1>8,654</td><td rowspan=1 colspan=1>15.65</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Department of Posts</td><td rowspan=1 colspan=1>1,33,976</td><td rowspan=1 colspan=1>11,878</td><td rowspan=1 colspan=1>8.87</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>South Eastern Railway (SER)</td><td rowspan=1 colspan=1>85,310</td><td rowspan=1 colspan=1>7,480</td><td rowspan=1 colspan=1>8.77</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                185,
+                911,
+                446
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/91ad557b8f9988d590ebcb9005e4c043242f18568fa2ac2ad90a6a645a786ea1.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top MDOs by % users completing 4hr+ Learning (L size MDO i.e. BETWEEN 10,000 AND 50,000 USERS)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>MDO</td><td rowspan=1 colspan=1>ONBOARDED</td><td rowspan=1 colspan=1> NO OF USERS COMPLETING 4 HR+ LEARNING</td><td rowspan=1 colspan=1>%USERS</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Airports Authority of India (AAl)</td><td rowspan=1 colspan=1>16,213</td><td rowspan=1 colspan=1>5.604</td><td rowspan=1 colspan=1>34.56</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Uttar Pradesh Postal Circle</td><td rowspan=1 colspan=1>37,724</td><td rowspan=1 colspan=1>10,438</td><td rowspan=1 colspan=1>27.67</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Telangana Postal Circle</td><td rowspan=1 colspan=1>13,352</td><td rowspan=1 colspan=1>3,357</td><td rowspan=1 colspan=1>25.14</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Maharashtra Postal Circle</td><td rowspan=1 colspan=1>37,353</td><td rowspan=1 colspan=1>7.853</td><td rowspan=1 colspan=1>21.02</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Andhra Pradesh Postal Circle</td><td rowspan=1 colspan=1>25,297</td><td rowspan=1 colspan=1>4,977</td><td rowspan=1 colspan=1>19.67</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Food Corporation of India (FCl)</td><td rowspan=1 colspan=1>31,995</td><td rowspan=1 colspan=1>6,130</td><td rowspan=1 colspan=1>19.16</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>West Bengal Postal Circle</td><td rowspan=1 colspan=1>28,555</td><td rowspan=1 colspan=1>5,406</td><td rowspan=1 colspan=1>18.93</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Prasar Bharati</td><td rowspan=1 colspan=1>14,335</td><td rowspan=1 colspan=1>2,570</td><td rowspan=1 colspan=1>17.93</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Karnataka Postal Circle</td><td rowspan=1 colspan=1>26,667</td><td rowspan=1 colspan=1>4,749</td><td rowspan=1 colspan=1>17.81</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Odisha Postal Circle</td><td rowspan=1 colspan=1>20,758</td><td rowspan=1 colspan=1>3,645</td><td rowspan=1 colspan=1>17.56</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                500,
+                911,
+                837
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "25"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                906,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/bb158f2c7d3e857759d8b204dbd3975be347a6969fefe67f94ec09bb4c34fd59.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top MDOs by % users completing 4hr+ Learning (M size MDO i.e. between 1,000 and 10,000 USERS)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>MDO</td><td rowspan=1 colspan=1>ONBOARDED</td><td rowspan=1 colspan=1> NO OF USERS COMPLETING 4 HR+ LEARNING</td><td rowspan=1 colspan=1>%USERS</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Raja Ramanna Centre for AdvancedTechnology</td><td rowspan=1 colspan=1>1,246</td><td rowspan=1 colspan=1>816</td><td rowspan=1 colspan=1>65.49</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>National Security Guard (NSG)</td><td rowspan=1 colspan=1>9,686</td><td rowspan=1 colspan=1>5,060</td><td rowspan=1 colspan=1>52.24</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1> Hindustan Copper Limited</td><td rowspan=1 colspan=1>1,236</td><td rowspan=1 colspan=1>621</td><td rowspan=1 colspan=1>50.24</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Lal Bahadur Shastri NationalAcademy of Administration(LBSNAA)</td><td rowspan=1 colspan=1>1,504</td><td rowspan=1 colspan=1>631</td><td rowspan=1 colspan=1>41.95</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>All India Institute of MedicalSciences - Patna</td><td rowspan=1 colspan=1>2,656</td><td rowspan=1 colspan=1>1,114</td><td rowspan=1 colspan=1>41.94</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>All India Institute of MedicalSciences AlIMS - Jodhpur</td><td rowspan=1 colspan=1>3,520</td><td rowspan=1 colspan=1>1,353</td><td rowspan=1 colspan=1>38.44</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Ministry of Home Affairs (P)</td><td rowspan=1 colspan=1>1,006</td><td rowspan=1 colspan=1>370</td><td rowspan=1 colspan=1>36.78</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Office of Controller General ofPatents, Designs and Trademarks(CGPDTM)</td><td rowspan=1 colspan=1>1,288</td><td rowspan=1 colspan=1>468</td><td rowspan=1 colspan=1>36.34</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Damodar Valley Corporation (DVC)</td><td rowspan=1 colspan=1>1,009</td><td rowspan=1 colspan=1>363</td><td rowspan=1 colspan=1>35.98</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Ministry of Environment, Forest andClimate Change</td><td rowspan=1 colspan=1>1,063</td><td rowspan=1 colspan=1>347</td><td rowspan=1 colspan=1>32.64</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                133,
+                911,
+                478
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3d757aea98f281388e5696aba9aaed826a24100be7188844633a7fe4afce4f56.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top MDOs by % users completing 4 hr+ Learning (S size MDO i.e. between 500 and 1,000 users)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>MDO</td><td rowspan=1 colspan=1>Onboarded</td><td rowspan=1 colspan=1> No of users completing4hr+ learning</td><td rowspan=1 colspan=1>% Users</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Mineral Exploration and ConsultancyLimited (MECL)</td><td rowspan=1 colspan=1>850</td><td rowspan=1 colspan=1>578</td><td rowspan=1 colspan=1>68</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>National Highways Authority of India</td><td rowspan=1 colspan=1>775</td><td rowspan=1 colspan=1>464</td><td rowspan=1 colspan=1>59.87</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Field Operations Division</td><td rowspan=1 colspan=1>514</td><td rowspan=1 colspan=1>273</td><td rowspan=1 colspan=1>53.11</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Ministry of Corporate Affairs</td><td rowspan=1 colspan=1>718</td><td rowspan=1 colspan=1>355</td><td rowspan=1 colspan=1>49.44</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>All India Institute of Medical SciencesAlIMS - Bilaspur</td><td rowspan=1 colspan=1>886</td><td rowspan=1 colspan=1>414</td><td rowspan=1 colspan=1>46.73</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Department of Agriculture and Farmerswelfare</td><td rowspan=1 colspan=1>810</td><td rowspan=1 colspan=1>370</td><td rowspan=1 colspan=1>45.68</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Central Institute of Psychiatry</td><td rowspan=1 colspan=1>522</td><td rowspan=1 colspan=1>236</td><td rowspan=1 colspan=1>45.21</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Variable Energy Cyclotron Centre(VECC)</td><td rowspan=1 colspan=1>514</td><td rowspan=1 colspan=1>214</td><td rowspan=1 colspan=1>41.63</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Directorate of Purchase and Stores</td><td rowspan=1 colspan=1>798</td><td rowspan=1 colspan=1>331</td><td rowspan=1 colspan=1>41.48</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Indian Bureau of Mines</td><td rowspan=1 colspan=1>932</td><td rowspan=1 colspan=1>372</td><td rowspan=1 colspan=1>39.91</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                517,
+                921,
+                829
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "26"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/2e209f18eb15aca0f027957b5dbf14464d9b2be37cbc44b29940ac26e2f40af0.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Top MDOs by % users completing 4 hr+ Learning (XS size MDO i.e. <=500 users)"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>MDO</td><td rowspan=1 colspan=1>Onboarded</td><td rowspan=1 colspan=1> No of users completing 4hr+ learning</td><td rowspan=1 colspan=1>% Users</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>All India Institute of Speech AndHearing AlISH - Mysore</td><td rowspan=1 colspan=1>185</td><td rowspan=1 colspan=1>179</td><td rowspan=1 colspan=1>96.76</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Jawaharlal Nehru Aluminium ResearchDevelopment and Design Centre(JNARDDC)</td><td rowspan=1 colspan=1>57</td><td rowspan=1 colspan=1>53</td><td rowspan=1 colspan=1>92.98</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Indira Gandhi National Forest Academy</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>72</td><td rowspan=1 colspan=1>91.14</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Department of School Education andLiteracy</td><td rowspan=1 colspan=1>178</td><td rowspan=1 colspan=1>155</td><td rowspan=1 colspan=1>87.08</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Jawaharlal Nehru Centre for AdvancedScientific Research (JNCASR)</td><td rowspan=1 colspan=1>79</td><td rowspan=1 colspan=1>64</td><td rowspan=1 colspan=1>81.01</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Directorate of Plant Protection,Quarantine and Storage</td><td rowspan=1 colspan=1>421</td><td rowspan=1 colspan=1>337</td><td rowspan=1 colspan=1>80.05</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Survey Design and Research Division</td><td rowspan=1 colspan=1>62</td><td rowspan=1 colspan=1>49</td><td rowspan=1 colspan=1>79.03</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1> Ministry of Mines</td><td rowspan=1 colspan=1>179</td><td rowspan=1 colspan=1>140</td><td rowspan=1 colspan=1>78.21</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>National Institute of Biologicals - Noida</td><td rowspan=1 colspan=1>109</td><td rowspan=1 colspan=1>85</td><td rowspan=1 colspan=1>77.98</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Coal Mines Provident FundOrganisation (CMPFO)</td><td rowspan=1 colspan=1>491</td><td rowspan=1 colspan=1>377</td><td rowspan=1 colspan=1>76.78</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                107,
+                911,
+                496
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 4. Daily Course Completion During Karmayogi Saptah"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                83,
+                541,
+                683,
+                563
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/027e0dd2dc75f32a5f5064737e1e8e30ca020b810d487e74f70f66dd64e59b2a.jpg"
+                },
+                "content": "",
+                "chart_caption": [
+                    {
+                        "type": "text",
+                        "content": "Daily Course Completions"
+                    }
+                ],
+                "chart_footnote": []
+            },
+            "bbox": [
+                114,
+                614,
+                879,
+                834
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                78
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/957f433ae603292a7e6247579ca4d2999a1329adf27d5f39db9b8cffdb01da55.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 5. List of All Central Key Webinars"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1> Name of the Speaker/s</td><td rowspan=1 colspan=1> Topic of the Webinar</td></tr><tr><td rowspan=1 colspan=1>David Frawley</td><td rowspan=1 colspan=1>Striving For Excellence: The Karmayogi Way</td></tr><tr><td rowspan=1 colspan=1>Raghava Krishna</td><td rowspan=1 colspan=1>IKS and the Multidisciplinary Mind for Complex Futures</td></tr><tr><td rowspan=1 colspan=1>NandanNilekaniandShankarMaruwada</td><td rowspan=1 colspan=1>Digital Public Infrastructure: At Present, and Opportunities Going Forward</td></tr><tr><td rowspan=1 colspan=1>Amritanshu Pandey</td><td rowspan=1 colspan=1>Building a Civilization through Sanskriti and Sanskrit</td></tr><tr><td rowspan=1 colspan=1>Prof. Bharat Anand</td><td rowspan=1 colspan=1>eLearning fora Billion People</td></tr><tr><td rowspan=1 colspan=1>Srikanth Velamakanni</td><td rowspan=1 colspan=1>Al to Revolutionize Governance and Society</td></tr><tr><td rowspan=1 colspan=1>Rajan Anandan</td><td rowspan=1 colspan=1>India&#x27;s Startup Ecosystem: Powering India&#x27;s Growth</td></tr><tr><td rowspan=1 colspan=1>Suhas Yathiraj</td><td rowspan=1 colspan=1>From Adversity to Achievement: Journey of serving the nation on the courtand in Governance</td></tr><tr><td rowspan=1 colspan=1>Anand Ramamoorthy</td><td rowspan=1 colspan=1>Semiconductors: The new oil</td></tr><tr><td rowspan=1 colspan=1>Mridula Ramesh</td><td rowspan=1 colspan=1>Climate Change and Water Security: Building Resilience for a SustainableFuture</td></tr><tr><td rowspan=1 colspan=1>Gurudev Sri Sri Ravi Shankar</td><td rowspan=1 colspan=1>Secrets of Living a Stress-Free Life</td></tr><tr><td rowspan=1 colspan=1>M. K. Sridhar</td><td rowspan=1 colspan=1>National Education Policy</td></tr><tr><td rowspan=1 colspan=1>Puneet Chandok</td><td rowspan=1 colspan=1>Al - Hyped or Underhyped?</td></tr><tr><td rowspan=1 colspan=1>Kris Gopalakrishnan</td><td rowspan=1 colspan=1>Making India an R&amp;D Superpower</td></tr><tr><td rowspan=1 colspan=1>Vinayak Chatterjee</td><td rowspan=1 colspan=1>Stages of Infrastructure Development - the Indian Experience</td></tr><tr><td rowspan=1 colspan=1>Dr.Soumya Swaminathan</td><td rowspan=1 colspan=1>India Public Health towards Viksit Bharat</td></tr><tr><td rowspan=1 colspan=1>B.K. Shivani</td><td rowspan=1 colspan=1>Creating a Mindful Work Culture: Strategies for Leaders and Teams</td></tr><tr><td rowspan=1 colspan=1>Anurag Behar</td><td rowspan=1 colspan=1>Inclusive Education and Capacity Building for Public Service</td></tr><tr><td rowspan=1 colspan=1>Sunita Bhuyan</td><td rowspan=1 colspan=1>Music: Inspiration for Learning</td></tr><tr><td rowspan=1 colspan=1>Neelkanth Mishra</td><td rowspan=1 colspan=1>International Financial Landscape and India&#x27;s Role in it</td></tr><tr><td rowspan=1 colspan=1>Abhinav Bindra</td><td rowspan=1 colspan=1>India as a sports superpower in Viksit Bharat</td></tr><tr><td rowspan=1 colspan=1>Tobias Adrian</td><td rowspan=1 colspan=1>Global Financial Stability</td></tr><tr><td rowspan=1 colspan=1>Dr. Somanath</td><td rowspan=1 colspan=1>Aiming for the Stars: India&#x27;s Journey in Space</td></tr><tr><td rowspan=1 colspan=1>R. Venkataramani</td><td rowspan=1 colspan=1>Overview of India&#x27;s Judicial System: Laws, Govt. and Court</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                112,
+                911,
+                708
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                720,
+                27,
+                897,
+                79
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/acd72ec8f4f5e3f9e1722f882b3383a7f8993f87f41e6f944b06bdfa7b959a5e.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 6. Top Courses based on Overall Completion - Behavioral, Functional & Domain Behavioral Competency"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>Course</td><td rowspan=1 colspan=1>Courses Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>3,07,799</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Training Module on Swachata Hi Seva - 2024</td><td rowspan=1 colspan=1>90,474</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>F-2024</td><td rowspan=1 colspan=1>61,124</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>57,440</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Team Building</td><td rowspan=1 colspan=1>55,537</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Jan Bhagidari Program (English)</td><td rowspan=1 colspan=1>44,407</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Orientation Module on Mission LiFE</td><td rowspan=1 colspan=1>36,428</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Jan Bhagidari Program (Hindi)</td><td rowspan=1 colspan=1>35,341</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Leading The Karmayogi Way</td><td rowspan=1 colspan=1>32,496</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Problem Solving and Decision Making</td><td rowspan=1 colspan=1>28,099</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                86,
+                131,
+                908,
+                347
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/d1394315343534f3bc7a04b43c0d0c0b9dba29251e78b8a2fcfa8633802a4755.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Functional Competency"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>Course</td><td rowspan=1 colspan=1>Courses Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>3,07,799</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Public Governance Models</td><td rowspan=1 colspan=1>70,132</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Code of Conduct for Government Employees</td><td rowspan=1 colspan=1>64,947</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Prevention of Sexual Harassment of Women at Workplace</td><td rowspan=1 colspan=1>62,301</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Conduct rules (ISTM)</td><td rowspan=1 colspan=1>52,918</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Jan Bhagidari Program (English)</td><td rowspan=1 colspan=1>44,407</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Orientation Module on Mission LiFE</td><td rowspan=1 colspan=1>36,428</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Microsoft Word Beginners</td><td rowspan=1 colspan=1>35,947</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Jan Bhagidari Program (Hindi)</td><td rowspan=1 colspan=1>35,341</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Stay Safe in Cyber Space</td><td rowspan=1 colspan=1>30,895</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                382,
+                892,
+                599
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Domain Competency"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                84,
+                621,
+                266,
+                637
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/9b1eee9a3a8eccdd2e3e9ada003550f68932c3e1a7358b0677d4bb70ae2c7bc7.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>Course</td><td rowspan=1 colspan=1>Courses Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>3,07,799</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Overview of Passes and PTO</td><td rowspan=1 colspan=1>89,153</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Basic information of Citizens&#x27; Charter</td><td rowspan=1 colspan=1>67,754</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Conduct rules (Railways)</td><td rowspan=1 colspan=1>64,794</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Empowering Tomorrow: Digital Transformation and Initiatives of DoP</td><td rowspan=1 colspan=1>57,262</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Indian Railways - Passes and PTOs (English)</td><td rowspan=1 colspan=1>53,272</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Indian Railways- Leave Rules (English)</td><td rowspan=1 colspan=1>48,428</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Railways Act Essentials (Part-l)</td><td rowspan=1 colspan=1>47,571</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Improving Passenger Experience</td><td rowspan=1 colspan=1>45,387</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Jan Bhagidari Program (English)</td><td rowspan=1 colspan=1>44,407</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                637,
+                911,
+                871
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                720,
+                27,
+                789,
+                78
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                40,
+                895,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ],
+    [
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/3211e36ab58c668bab8af69c66669f6c3dff5811e43bda0636c0d65da671a62c.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Appendix 7. Top 10 Courses Completed Groupwise"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Group A users:"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td>S.N.</td><td>Course Name</td><td> Total Completions</td></tr><tr><td>1</td><td>Overview of Viksit Bharat 2047</td><td>10,021</td></tr><tr><td>2</td><td>Code of Conduct for Government Employees</td><td>5,263</td></tr><tr><td>3</td><td>Yoga Break at Workplace</td><td>4,142</td></tr><tr><td>4</td><td>Understanding Mission Karmayogi</td><td>3,729</td></tr><tr><td>5</td><td>ChatGPT and Generative Al tools for Government Officials</td><td>3.348</td></tr><tr><td>6</td><td>Jan Bhagidari Program (English)</td><td>2.975</td></tr><tr><td>7</td><td>Introduction to Emerging Technologies</td><td>2.915</td></tr><tr><td>8</td><td>Training Module on Swachata Hi Seva - 2024</td><td>2.,814</td></tr><tr><td>9</td><td>Prevention of Sexual Harassment of Women at Workplace</td><td>2.806</td></tr><tr><td>10</td><td>Basics of Communication</td><td>2,798</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                130,
+                911,
+                339
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/e8c773193031d4826a410e0237bdde810dbb9c3de972bfe969726cd82e232bb5.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Group B users:"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>Course Name</td><td rowspan=1 colspan=1> Total Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>15.329</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Code of Conduct for Government Employees</td><td rowspan=1 colspan=1>6,489</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Yoga Break at Workplace</td><td rowspan=1 colspan=1>5,463</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Training Module on Swachata Hi Seva - 2024</td><td rowspan=1 colspan=1>4745</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>ChatGPT and Generative Al tools for Government Officials</td><td rowspan=1 colspan=1>4,176</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Prevention of Sexual Harassment of Women at Workplace</td><td rowspan=1 colspan=1>3,971</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>Stay Safe in Cyber Space</td><td rowspan=1 colspan=1>3,954</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Orientation Module on Mission LiFE</td><td rowspan=1 colspan=1>3,693</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>STRESS MANAGEMENT</td><td rowspan=1 colspan=1>3,665</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Understanding Mission Karmayogi</td><td rowspan=1 colspan=1>3,557</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                377,
+                911,
+                585
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/56211e90a910ae957269518ca9f9c512deff7fc2cd06036b716571dac534eb79.jpg"
+                },
+                "table_caption": [
+                    {
+                        "type": "text",
+                        "content": "Group C users:"
+                    }
+                ],
+                "table_footnote": [],
+                "html": "<table><tr><td rowspan=1 colspan=1>S.N.</td><td rowspan=1 colspan=1>Course Name</td><td rowspan=1 colspan=1> Total Completions</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>Overview of Viksit Bharat 2047</td><td rowspan=1 colspan=1>1,28,990</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>Overview of Passes and PTO</td><td rowspan=1 colspan=1>79,901</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>Conduct Rules (Railways)</td><td rowspan=1 colspan=1>59,523</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>Indian Railways - Leave Rules (English)</td><td rowspan=1 colspan=1>44,440</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>Railways Act Essentials (Part-l)</td><td rowspan=1 colspan=1>43,431</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>Indian Railways - Passes and PTOs (English)</td><td rowspan=1 colspan=1>42,597</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>2024</td><td rowspan=1 colspan=1>42,193</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>Improving Passenger Experience</td><td rowspan=1 colspan=1>41,157</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>Prevention of Sexual Harassment of Women at Workplace</td><td rowspan=1 colspan=1>40,493</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>Conduct Rules (ISTM)</td><td rowspan=1 colspan=1>40,204</td></tr></table>",
+                "table_type": "complex_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                84,
+                622,
+                911,
+                840
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": []
+            },
+            "bbox": [
+                720,
+                27,
+                789,
+                79
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "NATIONAL LEARNING WEEK"
+                    }
+                ]
+            },
+            "bbox": [
+                794,
+                40,
+                895,
+                65
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "30"
+                    }
+                ]
+            },
+            "bbox": [
+                883,
+                928,
+                905,
+                941
+            ]
+        }
+    ]
+]

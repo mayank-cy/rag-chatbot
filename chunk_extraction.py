@@ -1,6 +1,6 @@
 import json
 
-with open("/Users/mayankchoudhary/Desktop/rag_project/outputs/outputs/input_pdf/auto/input_pdf_content_list_v2.json") as f:
+with open("data/input_pdf_content_list_v2.json") as f:
     data = json.load(f)
 
 
@@ -150,7 +150,7 @@ def create_rag_chunks(sections, source_name):
 
 if __name__=="__main__":
     
-    json_file_path = "/Users/mayankchoudhary/Desktop/rag_project/outputs/outputs/input_pdf/auto/input_pdf_content_list_v2.json"
+    json_file_path = "data/input_pdf_content_list_v2.json"
 
     sections = get_document_sections(json_file_path)
 
