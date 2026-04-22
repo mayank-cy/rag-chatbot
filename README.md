@@ -31,6 +31,12 @@ pip install -r requirements.txt
 # pip install "mineru[all]"
 ```
 
+Run chatbot locally
+
+```bash
+streamlit run streamlit_ui.py
+```
+
 Pipeline (recommended)
 1. Extract PDF -> JSON (mineru). Example helper:
    ./run_extraction.sh <input_pdf_dir> <output_dir>
